@@ -18,6 +18,10 @@ You'll need a Python environment with the following packages installed:
 ```bash
 pip install -r requirements.txt
 ```
+OR
+```bash
+pip3 install -r requirements.txt
+```
 
 IF you want to visualize the DAG, you'll need `graphviz` installed. This can be done with one command if you're using 
 conda:
